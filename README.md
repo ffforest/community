@@ -37,7 +37,6 @@ Each KusionStack sub-project might maintains its own contributing guide. Those l
 * [Kusion](https://github.com/KusionStack/kusion/blob/main/CONTRIBUTING.md)
 * [Karpor](https://github.com/KusionStack/karpor/blob/main/CONTRIBUTING.md)
 
-
 ## Project Resources
 
 - KusionStack Github: [https://github.com/KusionStack](https://github.com/KusionStack)
